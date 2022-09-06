@@ -3,14 +3,14 @@
 #   name: material
 #Site
 site_name: Data Analytics Lifecycle Processes & Standardization
-site_url: https://sede-x.github.io/dalps/
-site_author: Chandan Nayak
+site_url: https://gk0209.github.io/DatabricksLearning/
+site_author: Girish Kumar
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project
 # Repository
-repo_name: DALPS
-repo_url: https://github.com/sede-x/dalps
+repo_name: Databricks Learning
+repo_url: https://github.com/GK0209/DatabricksLearning
 edit_uri: ""
 
 # Custom Colour Pallete
@@ -48,8 +48,8 @@ theme:
     font:
         text: Roboto
         code: Roboto Mono
-    favicon: assets/favicon.png
-    logo: assets/favicon.png
+    #favicon: assets/favicon.png
+    #logo: assets/favicon.png
 
 extra:
     generator: false
@@ -69,31 +69,7 @@ markdown_extensions:
         alternate_style: true
 
 nav:
-    - Executive Summary: summary/summary.md
-    - Principles: 
-        - Data Strategy: principles/data-strategy/data-strategy.md
-        - Framework: principles/framework/framework.md
-        - DataOps & Ways of Working: principles/principles-and-wow/principles-and-wow.md
-        - Security & Privacy: principles/security-and-privacy/security-and-privacy.md
-        - Data Quality Assurance and Automated Testing: principles/dq-and-testing/dq-and-testing.md
-        - Data Management: principles/data-management/data-management.md
-    - ERP Analytics:
-        - Summary: erp/summary/summary.md
-        - Strategy: erp/strategy/strategy.md
-        - Framework: erp/framework/framework.md
-        - DataOps & Ways of Working: erp/principles-and-wow/principles-and-wow.md
-        - Security & Privacy: erp/security-and-privacy/security-and-privacy.md
-        - Data Quality Assurance and Automated Testing: erp/dq-and-testing/dq-and-testing.md
-        - Data Management: erp/data-management/data-management.md
-        - Developer Guides: erp/developer-guide/developer-guide.md
-    - Data & Analytics:
-        - Summary: data/summary/summary.md
-        - Strategy: data/strategy/strategy.md
-        - Framework: data/framework/framework.md
-        - DataOps & Ways of Working: data/principles-and-wow/principles-and-wow.md
-        - Security & Privacy: data/security-and-privacy/security-and-privacy.md
-        - Data Quality Assurance and Automated Testing: data/dq-and-testing/dq-and-testing.md
-        - Data Management: data/data-management/data-management.md
-        - Developer Guides: data/developer-guide/developer-guide.md
-    - AI & ML:
-        - Work Management: ai/work-management/work-management.md
+    - Fundamentals: fundamnetal/fundamental.md
+    - Advance: advance/advance.md
+    - Lab Exercise: lab/exercise.md     
+    
