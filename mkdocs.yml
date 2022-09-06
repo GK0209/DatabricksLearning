@@ -2,7 +2,7 @@
 # theme:
 #   name: material
 #Site
-site_name: Data Analytics Lifecycle Processes & Standardization
+site_name: Databricks Learning
 site_url: https://gk0209.github.io/DatabricksLearning/
 site_author: Girish Kumar
 site_description: >-
@@ -69,7 +69,7 @@ markdown_extensions:
         alternate_style: true
 
 nav:
-    - Fundamentals: fundamnetal/fundamental.md
+    - Fundamentals: fundamnetals/fundamentals.md
     - Advance: advance/advance.md
     - Lab Exercise: lab/exercise.md     
     
