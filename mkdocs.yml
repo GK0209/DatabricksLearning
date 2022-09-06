@@ -69,7 +69,7 @@ markdown_extensions:
         alternate_style: true
 
 nav:
-    - Fundamentals: fundamentals/fundamentals.md
+    - Fundamentals: fundamental/fundamental.md
     - Advance: advance/advance.md
     - Lab Exercise: lab/exercise.md     
     
