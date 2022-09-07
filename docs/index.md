@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Databricks Learnings
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site is mainly for Databricks on Azure (https://docs.microsoft.com/en-us/azure/databricks/)
+For "Databricks on AWS" documentation visit [docs.databricks.com](https://docs.databricks.com/).
 
 ## Commands
 
