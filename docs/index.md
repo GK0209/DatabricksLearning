@@ -1,6 +1,6 @@
 # Welcome to Databricks Learnings
 
-This site is mainly for Databricks on Azure (https://docs.microsoft.com/en-us/azure/databricks/)
+This site is mainly for Databricks on Azure [docs.azure.databricks](https://docs.microsoft.com/en-us/azure/databricks/)
 For "Databricks on AWS" documentation visit [docs.databricks.com](https://docs.databricks.com/).
 
 ## Commands
