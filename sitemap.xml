@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gk0209.github.io/DatabricksLearning/</loc>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gk0209.github.io/DatabricksLearning/advance/advance/</loc>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gk0209.github.io/DatabricksLearning/fundamental/fundamental/</loc>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gk0209.github.io/DatabricksLearning/lab/exercise/</loc>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
